@@ -1,0 +1,42 @@
+{
+  "group": "nowemody",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "nowemody:fioletyd_dust"
+    },
+    "1": {
+      "item": "nowemody:fioletyd_dust"
+    },
+    "2": {
+      "item": "nowemody:fioletyd_dust"
+    },
+    "3": {
+      "item": "nowemody:fioletyd_dust"
+    },
+    "4": {
+      "item": "nowemody:fioletyd_dust"
+    },
+    "5": {
+      "item": "nowemody:fioletyd_dust"
+    },
+    "6": {
+      "item": "nowemody:fioletyd_dust"
+    },
+    "7": {
+      "item": "nowemody:fioletyd_dust"
+    },
+    "8": {
+      "item": "nowemody:fioletyd_dust"
+    }
+  },
+  "result": {
+    "item": "nowemody:fioletyd_block",
+    "count": 1
+  }
+}

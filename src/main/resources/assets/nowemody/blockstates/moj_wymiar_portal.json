@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nowemody:block/moj_wymiar_portal_ew"
+    },
+    "axis=x": {
+      "model": "nowemody:block/moj_wymiar_portal_ns"
+    }
+  }
+}

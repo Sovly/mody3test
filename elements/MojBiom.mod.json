@@ -1,0 +1,93 @@
+{
+  "_fv": 18,
+  "_type": "biome",
+  "definition": {
+    "name": "Moj Biom",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIAMOND_ORE"
+    },
+    "airColor": {
+      "value": -13369345,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -16776961,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -256,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -205,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -65485,
+      "falpha": 0.0
+    },
+    "moodSoundDelay": 0,
+    "spawnParticles": false,
+    "particlesProbability": 0.0,
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.5,
+    "temperature": 2.0,
+    "baseHeight": 0.6,
+    "heightVariation": 0.0,
+    "biomeType": "WARM",
+    "spawnBiome": true,
+    "biomeWeight": 1000,
+    "biomeDictionaryTypes": [
+      "HILLS"
+    ],
+    "grassPerChunk": 4,
+    "seagrassPerChunk": 20,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 3,
+    "vanillaTreeType": "Default",
+    "treeType": 1,
+    "minHeight": 10,
+    "maxWaterDepth": 0,
+    "treeStem": {
+      "value": "Blocks.EMERALD_ORE"
+    },
+    "treeBranch": {
+      "value": "Blocks.STAINED_GLASS#5"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.LAPIS_BLOCK"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnPillagerOutpost": true,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Structures",
+      "FrozenTopLayer"
+    ],
+    "spawnEntries": []
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nowemody:blocks/lakiblok3",
+    "up": "nowemody:blocks/lakiblok3",
+    "north": "nowemody:blocks/lakiblok3",
+    "east": "nowemody:blocks/lakiblok3",
+    "south": "nowemody:blocks/lakiblok3",
+    "west": "nowemody:blocks/lakiblok3",
+    "particle": "nowemody:blocks/lakiblok3"
+  }
+}

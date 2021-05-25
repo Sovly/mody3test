@@ -1,0 +1,50 @@
+{
+  "_fv": 18,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 60,
+    "inventoryOffsetX": 56,
+    "inventoryOffsetY": 4,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "DIAMOND GENERATOR",
+          "color": {
+            "value": -16724788,
+            "falpha": 0.0
+          },
+          "name": "DIAMOND GENERATOR",
+          "x": 131,
+          "y": 130
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Daj Diaxa!",
+          "width": 75,
+          "height": 20,
+          "name": "Daj Diaxa!",
+          "x": 218,
+          "y": 125
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Wpisz tutaj swój nick",
+          "width": 120,
+          "height": 20,
+          "name": "nick",
+          "x": 153,
+          "y": 100
+        }
+      }
+    ]
+  }
+}

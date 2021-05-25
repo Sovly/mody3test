@@ -1,0 +1,8 @@
+{
+  "parent": "nowemody:custom/latarnia",
+  "textures": {
+    "all": "nowemody:blocks/latarnia",
+    "particle": "nowemody:blocks/latarnia",
+    "0": "nowemody:blocks/latarnia"
+  }
+}

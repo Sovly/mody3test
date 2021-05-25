@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Not specified"
+
+[[mods]]
+modId="nowemody"
+version="1.5"
+displayName="nowemody"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://www.maniaprogramowania.pl"
+logoFile="logo.png"
+authors="Sovly, MCreator"
+
+[[dependencies.nowemody]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

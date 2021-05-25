@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nowemody:blocks/luckyblock",
+    "up": "nowemody:blocks/luckyblock",
+    "north": "nowemody:blocks/luckyblock",
+    "east": "nowemody:blocks/luckyblock",
+    "south": "nowemody:blocks/luckyblock",
+    "west": "nowemody:blocks/luckyblock",
+    "particle": "nowemody:blocks/luckyblock"
+  }
+}

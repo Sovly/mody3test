@@ -1,0 +1,13 @@
+{
+  "group": "nowemody",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "nowemody:fioletyd_block"
+    }
+  ],
+  "result": {
+    "item": "nowemody:fioletyd_dust",
+    "count": 9
+  }
+}

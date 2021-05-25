@@ -1,0 +1,1091 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "LuckyBlockBlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_block_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LuckyBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lucky_block"
+    },
+    {
+      "name": "LakiBlok2BlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laki_blok_2_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LakiBlok2",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laki_blok_2"
+    },
+    {
+      "name": "TestOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Test",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test"
+    },
+    {
+      "name": "WymiarZimowyPlayerEntersDimension",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wymiar_zimowy_player_enters_dimension",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "WymiarZimowy",
+      "type": "dimension",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wymiar_zimowy",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "MojBiom",
+      "type": "biome",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moj_biom"
+    },
+    {
+      "name": "MojBiomGory",
+      "type": "biome",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moj_biom_gory"
+    },
+    {
+      "name": "LakiBlok3BlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laki_blok_3_block_destroyed_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "LakiBlok3",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "laki_blok_3"
+    },
+    {
+      "name": "Nyan",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nyan"
+    },
+    {
+      "name": "FioletydDust",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fioletyd_dust"
+    },
+    {
+      "name": "FioletydOre",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fioletyd_ore"
+    },
+    {
+      "name": "FioletydBlock",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fioletyd_block"
+    },
+    {
+      "name": "FioletydOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fioletyd_ore_block_recipe"
+    },
+    {
+      "name": "FioletydBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fioletyd_block_ore_recipe"
+    },
+    {
+      "name": "FioletydOreSmelting",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fioletyd_ore_smelting"
+    },
+    {
+      "name": "MojWymiar",
+      "type": "dimension",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moj_wymiar",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "BlockOfKartowels",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "block_of_kartowels"
+    },
+    {
+      "name": "RedLog",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_log"
+    },
+    {
+      "name": "RedLogStripped",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_log_stripped"
+    },
+    {
+      "name": "RedLogOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_log_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mleko",
+      "type": "fluid",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mleko"
+    },
+    {
+      "name": "Gaz",
+      "type": "fluid",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gaz"
+    },
+    {
+      "name": "Potkatest",
+      "type": "potion",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potkatest"
+    },
+    {
+      "name": "Czekolada",
+      "type": "fluid",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "czekolada"
+    },
+    {
+      "name": "Gazpaliwo",
+      "type": "fuel",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gazpaliwo"
+    },
+    {
+      "name": "Mleko2",
+      "type": "fluid",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mleko_2"
+    },
+    {
+      "name": "Czekoladowepaliwo",
+      "type": "fuel",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "czekoladowepaliwo"
+    },
+    {
+      "name": "Nyanblock64",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "nyanblock_64"
+    },
+    {
+      "name": "ZielonyOgien",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "zielony_ogien"
+    },
+    {
+      "name": "TV",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tv"
+    },
+    {
+      "name": "DajDiaxa",
+      "type": "procedure",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "daj_diaxa",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Miod",
+      "type": "fluid",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "miod"
+    },
+    {
+      "name": "TestEnt",
+      "type": "mob",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test_ent"
+    },
+    {
+      "name": "Fura",
+      "type": "mob",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fura"
+    },
+    {
+      "name": "Fura2",
+      "type": "mob",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fura_2"
+    },
+    {
+      "name": "Krowa",
+      "type": "mob",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "krowa"
+    },
+    {
+      "name": "Krowka",
+      "type": "mob",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "krowka"
+    },
+    {
+      "name": "Kotel",
+      "type": "mob",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "kotel"
+    },
+    {
+      "name": "Sv",
+      "type": "structure",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sv"
+    },
+    {
+      "name": "Sa",
+      "type": "structure",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sa"
+    },
+    {
+      "name": "Tv2",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "tv_2"
+    },
+    {
+      "name": "TelefonBrzydki",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "telefon_brzydki"
+    },
+    {
+      "name": "Furka",
+      "type": "mob",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "furka"
+    },
+    {
+      "name": "DiaxyZaFree",
+      "type": "gui",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diaxy_za_free"
+    },
+    {
+      "name": "GeneratorDiaxowOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "generator_diaxow_on_block_right_clicked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GeneratorDiaxow",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "generator_diaxow"
+    },
+    {
+      "name": "DiamondGeneratorButton",
+      "type": "procedure",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "diamond_generator_button",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FurkaItemRightClickedInAir",
+      "type": "procedure",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "furka_item_right_clicked_in_air",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FurkaItem",
+      "type": "item",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "furka_item"
+    },
+    {
+      "name": "FurkaItemRepice",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "furka_item_repice"
+    },
+    {
+      "name": "Potworek",
+      "type": "mob",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "potworek"
+    },
+    {
+      "name": "Dirtozaur",
+      "type": "mob",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirtozaur"
+    },
+    {
+      "name": "CzerwonyKurczak",
+      "type": "mob",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "czerwony_kurczak"
+    },
+    {
+      "name": "MojaFura",
+      "type": "mob",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moja_fura"
+    },
+    {
+      "name": "MojaFuraItemRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moja_fura_item_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MojaFuraItem",
+      "type": "item",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "moja_fura_item"
+    },
+    {
+      "name": "RecepturaMojaFura",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "receptura_moja_fura"
+    },
+    {
+      "name": "Motorek",
+      "type": "mob",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "motorek"
+    },
+    {
+      "name": "Krzeslo",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "krzeslo"
+    },
+    {
+      "name": "Sdgfsdf",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sdgfsdf"
+    },
+    {
+      "name": "Fewfwef",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "fewfwef"
+    },
+    {
+      "name": "Krowokot",
+      "type": "mob",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "krowokot"
+    },
+    {
+      "name": "Dinek",
+      "type": "mob",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dinek"
+    },
+    {
+      "name": "Obraz",
+      "type": "painting",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obraz"
+    },
+    {
+      "name": "Obraz32",
+      "type": "painting",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obraz_32"
+    },
+    {
+      "name": "Obraz64",
+      "type": "painting",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "obraz_64"
+    },
+    {
+      "name": "CosDziwnego",
+      "type": "particle",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cos_dziwnego"
+    },
+    {
+      "name": "DziwnyBlokClientDisplayRandomTick",
+      "type": "procedure",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dziwny_blok_client_display_random_tick",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "DziwnyBlok",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dziwny_blok"
+    },
+    {
+      "name": "Samochodo1",
+      "type": "mob",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "samochodo_1"
+    },
+    {
+      "name": "Latarnia2",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "latarnia_2"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "symphony_no_6",
+      "files": [
+        "symphony_no.6_1st_movement"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "pl_pl": {
+      "block.nowemody.laki_blok_2": "Laki Blok 2",
+      "block.nowemody.laki_blok_3": "Laki Blok 3",
+      "item.nowemody.mleko_2_bucket": "Mleko2 Bucket",
+      "block.nowemody.block_of_kartowels": "Block Of Kartowels",
+      "block.nowemody.dziwny_blok": "Dziwny Blok",
+      "block.nowemody.red_log_stripped": "Red Log Stripped",
+      "item.nowemody.wymiar_zimowy": "Œnie¿ny Patyk",
+      "block.nowemody.sdgfsdf": "Sdgfsdf",
+      "fluid.czekolada": "Czekolada",
+      "fluid.mleko_2": "Mleko2",
+      "subtitles.symphony_no_6": "",
+      "entity.nowemody.krowka": "Krowka",
+      "block.nowemody.tv_2": "Tv 2",
+      "block.nowemody.nyan": "Nyan",
+      "item.nowemody.krowokot_spawn_egg": "Krowokot Spawn Egg",
+      "entity.nowemody.czerwony_kurczak": "Czerwony Kurczak",
+      "block.nowemody.latarnia_2": "Latarnia 2",
+      "item.nowemody.furka_spawn_egg": "Furka Spawn Egg",
+      "item.minecraft.lingering_potion.effect.potkatest": "Lingering Potkatest",
+      "block.nowemody.tv": "TV",
+      "block.nowemody.lucky_block": "Lucky Block",
+      "item.nowemody.krowka_spawn_egg": "Krowka Spawn Egg",
+      "block.nowemody.generator_diaxow": "Generator Diaxow",
+      "block.nowemody.fewfwef": "Fewfwef",
+      "block.nowemody.krzeslo": "Krzeslo",
+      "entity.nowemody.furka": "Furka",
+      "item.nowemody.test_ent_spawn_egg": "Test Ent Spawn Egg",
+      "block.nowemody.fioletyd_block": "Block of Fioletyd",
+      "entity.nowemody.dirtozaur": "Dirtozaur",
+      "item.nowemody.kotel_spawn_egg": "Kote³ Spawn Egg",
+      "item.nowemody.dirtozaur_spawn_egg": "Dirtozaur Spawn Egg",
+      "biome.nowemody.moj_biom": "Moj Biom",
+      "item.nowemody.moja_fura_item": "Moja Fura Item",
+      "entity.nowemody.krowa": "Krowa",
+      "block.nowemody.fioletyd_ore": "Fioletyd Ore",
+      "item.nowemody.krowa_spawn_egg": "Krowa Spawn Egg",
+      "block.nowemody.test": "Test",
+      "fluid.mleko": "Mleko",
+      "item.nowemody.mleko_bucket": "Mleko Bucket",
+      "item.nowemody.moj_wymiar": "Niebieski Klucz",
+      "entity.nowemody.test_ent": "Test Ent",
+      "item.nowemody.gaz_bucket": "Gaz Bucket",
+      "item.nowemody.potworek_spawn_egg": "Potworek Spawn Egg",
+      "entity.nowemody.moja_fura": "Moja Fura",
+      "entity.nowemody.kotel": "Kote³",
+      "biome.nowemody.moj_biom_gory": "Moj Biom",
+      "entity.nowemody.motorek": "Motorek",
+      "fluid.miod": "Miod",
+      "item.nowemody.fioletyd_dust": "Fioletyd",
+      "block.nowemody.nyanblock_64": "Nyanblock 6 4",
+      "block.nowemody.zielony_ogien": "Zielony Ogien",
+      "entity.nowemody.samochodo_1": "Szybki Czerwony Samochód",
+      "item.minecraft.splash_potion.effect.potkatest": "Splash Potkatest",
+      "block.nowemody.red_log": "Red Log",
+      "item.nowemody.fura_2_spawn_egg": "Fura 2 Spawn Egg",
+      "item.minecraft.potion.effect.potkatest": "Potkatest",
+      "item.nowemody.dinek_spawn_egg": "Dinek Spawn Egg",
+      "item.nowemody.furka_item": "Furka Item",
+      "entity.nowemody.fura": "Fura",
+      "block.nowemody.telefon_brzydki": "Telefon Brzydki",
+      "item.nowemody.samochodo_1_spawn_egg": "Szybki Czerwony Samochód Spawn Egg",
+      "item.nowemody.miod_bucket": "Miod Bucket",
+      "item.nowemody.czerwony_kurczak_spawn_egg": "Czerwony Kurczak Spawn Egg",
+      "entity.nowemody.krowokot": "Krowokot",
+      "entity.nowemody.dinek": "Dinek",
+      "item.nowemody.fura_spawn_egg": "Fura Spawn Egg",
+      "entity.nowemody.potworek": "Potworek",
+      "item.nowemody.motorek_spawn_egg": "Motorek Spawn Egg",
+      "item.minecraft.tipped_arrow.effect.potkatest": "Arrow of Potkatest",
+      "effect.potkatest": "Potkatest",
+      "fluid.gaz": "Gaz",
+      "entity.nowemody.fura_2": "Fura 2",
+      "item.nowemody.czekolada_bucket": "Czekolada Bucket",
+      "item.nowemody.moja_fura_spawn_egg": "Moja Fura Spawn Egg"
+    },
+    "en_us": {
+      "block.nowemody.laki_blok_2": "Lucky Block",
+      "item.nowemody.mleko_2_bucket": "Milk2 Bucket",
+      "block.nowemody.laki_blok_3": "Lucky Blok 3",
+      "block.nowemody.block_of_kartowels": "Block Of Potatoes",
+      "block.nowemody.dziwny_blok": "Dziwny Blok",
+      "block.nowemody.red_log_stripped": "Red Log Stripped",
+      "item.nowemody.wymiar_zimowy": "Œnie¿ny Patyk",
+      "block.nowemody.sdgfsdf": "Sdgfsdf",
+      "fluid.czekolada": "Czekolada",
+      "fluid.mleko_2": "Mleko2",
+      "subtitles.symphony_no_6": "",
+      "entity.nowemody.krowka": "Cow",
+      "block.nowemody.tv_2": "Tv 2",
+      "block.nowemody.nyan": "Nyan",
+      "item.nowemody.krowokot_spawn_egg": "Krowokot Spawn Egg",
+      "entity.nowemody.czerwony_kurczak": "Red Chicken",
+      "block.nowemody.latarnia_2": "Latarnia 2",
+      "item.nowemody.furka_spawn_egg": "Furka Spawn Egg",
+      "item.minecraft.lingering_potion.effect.potkatest": "Lingering Potkatest",
+      "block.nowemody.tv": "TV",
+      "block.nowemody.lucky_block": "Lucky Block",
+      "item.nowemody.krowka_spawn_egg": "Krowka Spawn Egg",
+      "block.nowemody.generator_diaxow": "Generator Diaxow",
+      "block.nowemody.fewfwef": "Fewfwef",
+      "block.nowemody.krzeslo": "Krzeslo",
+      "entity.nowemody.furka": "Furka",
+      "item.nowemody.test_ent_spawn_egg": "Test Ent Spawn Egg",
+      "block.nowemody.fioletyd_block": "Block of Fioletyd",
+      "entity.nowemody.dirtozaur": "Dirtozaur",
+      "item.nowemody.kotel_spawn_egg": "Kote³ Spawn Egg",
+      "item.nowemody.dirtozaur_spawn_egg": "Dirtozaur Spawn Egg",
+      "biome.nowemody.moj_biom": "Moj Biom",
+      "item.nowemody.moja_fura_item": "Moja Fura Item",
+      "entity.nowemody.krowa": "Krowa",
+      "block.nowemody.fioletyd_ore": "Fioletyd Ore",
+      "item.nowemody.krowa_spawn_egg": "Krowa Spawn Egg",
+      "block.nowemody.test": "Test",
+      "fluid.mleko": "Mleko",
+      "item.nowemody.mleko_bucket": "Mleko Bucket",
+      "item.nowemody.moj_wymiar": "Niebieski Klucz",
+      "entity.nowemody.test_ent": "Test Ent",
+      "item.nowemody.gaz_bucket": "Gaz Bucket",
+      "item.nowemody.potworek_spawn_egg": "Potworek Spawn Egg",
+      "entity.nowemody.moja_fura": "Moja Fura",
+      "entity.nowemody.kotel": "Kote³",
+      "biome.nowemody.moj_biom_gory": "Moj Biom",
+      "entity.nowemody.motorek": "Motorek",
+      "fluid.miod": "Miod",
+      "item.nowemody.fioletyd_dust": "Fioletyd",
+      "block.nowemody.nyanblock_64": "Nyanblock 6 4",
+      "block.nowemody.zielony_ogien": "Zielony Ogien",
+      "entity.nowemody.samochodo_1": "Szybki Czerwony Samochód",
+      "item.minecraft.splash_potion.effect.potkatest": "Splash Potkatest",
+      "block.nowemody.red_log": "Red Log",
+      "item.nowemody.fura_2_spawn_egg": "Fura 2 Spawn Egg",
+      "item.minecraft.potion.effect.potkatest": "Potkatest",
+      "item.nowemody.dinek_spawn_egg": "Dinek Spawn Egg",
+      "item.nowemody.furka_item": "Furka Item",
+      "entity.nowemody.fura": "Fura",
+      "block.nowemody.telefon_brzydki": "Telefon Brzydki",
+      "item.nowemody.samochodo_1_spawn_egg": "Szybki Czerwony Samochód Spawn Egg",
+      "item.nowemody.miod_bucket": "Miod Bucket",
+      "item.nowemody.czerwony_kurczak_spawn_egg": "Czerwony Kurczak Spawn Egg",
+      "entity.nowemody.krowokot": "Krowokot",
+      "entity.nowemody.dinek": "Dinek",
+      "item.nowemody.fura_spawn_egg": "Fura Spawn Egg",
+      "entity.nowemody.potworek": "Potworek",
+      "item.nowemody.motorek_spawn_egg": "Motorek Spawn Egg",
+      "item.minecraft.tipped_arrow.effect.potkatest": "Arrow of Potkatest",
+      "effect.potkatest": "Potkatest",
+      "fluid.gaz": "Gaz",
+      "entity.nowemody.fura_2": "Fura 2",
+      "item.nowemody.czekolada_bucket": "Czekolada Bucket",
+      "item.nowemody.moja_fura_spawn_egg": "Moja Fura Spawn Egg"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "nowemody",
+    "modName": "nowemody",
+    "version": "1.5",
+    "author": "Sovly, MCreator",
+    "websiteURL": "https://www.maniaprogramowania.pl",
+    "license": "Not specified",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.nowemody",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "nowemody:custom/telefon",
+  "textures": {
+    "all": "nowemody:blocks/telefon-texture1",
+    "particle": "nowemody:blocks/telefon-texture1",
+    "0": "nowemody:blocks/telefon-texture1"
+  }
+}

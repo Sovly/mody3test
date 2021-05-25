@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nowemody:blocks/fstk",
+    "up": "nowemody:blocks/fstk",
+    "north": "nowemody:blocks/nyan64",
+    "east": "nowemody:blocks/fstk",
+    "south": "nowemody:blocks/fstk",
+    "west": "nowemody:blocks/fstk",
+    "particle": "nowemody:blocks/fstk"
+  }
+}

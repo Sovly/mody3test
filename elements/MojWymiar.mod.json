@@ -1,0 +1,49 @@
+{
+  "_fv": 18,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:MojBiom"
+      },
+      {
+        "value": "CUSTOM:MojBiomGory"
+      }
+    ],
+    "worldGenType": "End like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.MOSSY_COBBLESTONE"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "airColor": {
+      "value": -16777063,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.LAPIS_BLOCK"
+    },
+    "portalParticles": {
+      "value": "WATER_BUBBLE"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "entity.chicken.hurt"
+    },
+    "igniterName": "Niebieski Klucz",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "niebieskiklucz",
+    "portalTexture": "niebieskiwymiarportal",
+    "enablePortal": true
+  }
+}

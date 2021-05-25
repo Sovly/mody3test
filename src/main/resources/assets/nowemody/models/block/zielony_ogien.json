@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "nowemody:blocks/zielonyogien",
+    "particle": "nowemody:blocks/zielonyogien"
+  }
+}

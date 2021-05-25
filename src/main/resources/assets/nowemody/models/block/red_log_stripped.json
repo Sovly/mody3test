@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nowemody:blocks/redlogokorowane",
+    "up": "nowemody:blocks/redlogokorowane",
+    "north": "nowemody:blocks/redlogokorowane",
+    "east": "nowemody:blocks/redlogokorowane",
+    "south": "nowemody:blocks/redlogokorowane",
+    "west": "nowemody:blocks/redlogokorowane",
+    "particle": "nowemody:blocks/redlogokorowane"
+  }
+}

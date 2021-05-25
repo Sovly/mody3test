@@ -1,0 +1,9 @@
+{
+  "parent": "nowemody:custom/tv",
+  "textures": {
+    "all": "nowemody:blocks/gaz",
+    "particle": "nowemody:blocks/gaz",
+    "0": "nowemody:blocks/",
+    "missing": "nowemody:blocks/"
+  }
+}

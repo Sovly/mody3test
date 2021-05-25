@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "nowemody:blocks/fioletyd_ore_block",
+    "particle": "nowemody:blocks/fioletyd_ore_block"
+  }
+}

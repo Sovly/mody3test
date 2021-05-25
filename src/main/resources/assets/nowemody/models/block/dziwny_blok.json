@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nowemody:blocks/niebieskiwymiarportal",
+    "up": "nowemody:blocks/niebieskiwymiarportal",
+    "north": "nowemody:blocks/niebieskiwymiarportal",
+    "east": "nowemody:blocks/niebieskiwymiarportal",
+    "south": "nowemody:blocks/niebieskiwymiarportal",
+    "west": "nowemody:blocks/niebieskiwymiarportal",
+    "particle": "nowemody:blocks/niebieskiwymiarportal"
+  }
+}

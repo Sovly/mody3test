@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "nowemody:block/zielony_ogien"
+    },
+    "facing=east": {
+      "model": "nowemody:block/zielony_ogien",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "nowemody:block/zielony_ogien",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "nowemody:block/zielony_ogien",
+      "y": 270
+    }
+  }
+}

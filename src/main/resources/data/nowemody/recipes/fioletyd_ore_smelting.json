@@ -1,0 +1,12 @@
+{
+  "group": "nowemody",
+  "type": "minecraft:smelting",
+  "experience": 2.0999999999999996,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "nowemody:fioletyd_ore"
+  },
+  "result": {
+    "item": "nowemody:fioletyd_dust"
+  }
+}

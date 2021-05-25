@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nowemody:blocks/diamondgenerator",
+    "up": "nowemody:blocks/diamondgenerator",
+    "north": "nowemody:blocks/diamondgenerator",
+    "east": "nowemody:blocks/diamondgenerator",
+    "south": "nowemody:blocks/diamondgenerator",
+    "west": "nowemody:blocks/diamondgenerator",
+    "particle": "nowemody:blocks/diamondgenerator"
+  }
+}

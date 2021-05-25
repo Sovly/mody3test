@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "Czekolada",
+    "textureStill": "czekolada-still",
+    "textureFlowing": "czekolada-flowing",
+    "luminosity": 0,
+    "density": -1000,
+    "viscosity": 9000,
+    "isGas": true,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "frequencyOnChunks": 20,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

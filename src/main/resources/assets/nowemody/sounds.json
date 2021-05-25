@@ -1,0 +1,11 @@
+{
+  "symphony_no_6": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "nowemody:symphony_no.6_1st_movement",
+        "stream": false
+      }
+    ]
+  }
+}

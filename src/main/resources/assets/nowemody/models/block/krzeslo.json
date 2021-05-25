@@ -1,0 +1,9 @@
+{
+  "parent": "nowemody:custom/krzeslo",
+  "textures": {
+    "all": "nowemody:blocks/texture",
+    "particle": "nowemody:blocks/texture",
+    "0": "nowemody:blocks/texture",
+    "missing": "nowemody:blocks/texture"
+  }
+}

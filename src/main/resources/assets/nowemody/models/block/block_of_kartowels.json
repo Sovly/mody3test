@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nowemody:blocks/kartowelblock",
+    "up": "nowemody:blocks/kartowelblock",
+    "north": "nowemody:blocks/kartowelblock",
+    "east": "nowemody:blocks/kartowelblock",
+    "south": "nowemody:blocks/kartowelblock",
+    "west": "nowemody:blocks/kartowelblock",
+    "particle": "nowemody:blocks/kartowelblock"
+  }
+}

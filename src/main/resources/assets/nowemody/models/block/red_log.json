@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nowemody:blocks/redlog1",
+    "up": "nowemody:blocks/redlog1",
+    "north": "nowemody:blocks/redlog1",
+    "east": "nowemody:blocks/redlog1",
+    "south": "nowemody:blocks/redlog1",
+    "west": "nowemody:blocks/redlog1",
+    "particle": "nowemody:blocks/redlog1"
+  }
+}

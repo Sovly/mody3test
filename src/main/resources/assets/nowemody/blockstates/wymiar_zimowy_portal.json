@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "nowemody:block/wymiar_zimowy_portal_ew"
+    },
+    "axis=x": {
+      "model": "nowemody:block/wymiar_zimowy_portal_ns"
+    }
+  }
+}

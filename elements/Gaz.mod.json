@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "fluid",
+  "definition": {
+    "name": "Gaz",
+    "textureStill": "gaz",
+    "textureFlowing": "gazflowing",
+    "luminosity": 5,
+    "density": -5,
+    "viscosity": 100,
+    "isGas": true,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "frequencyOnChunks": 10,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

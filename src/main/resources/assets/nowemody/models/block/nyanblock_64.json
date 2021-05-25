@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "nowemody:blocks/nyan64",
+    "up": "nowemody:blocks/nyan64",
+    "north": "nowemody:blocks/nyan64",
+    "east": "nowemody:blocks/nyan64",
+    "south": "nowemody:blocks/nyan64",
+    "west": "nowemody:blocks/nyan64",
+    "particle": "nowemody:blocks/nyan64"
+  }
+}
